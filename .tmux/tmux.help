@@ -110,6 +110,8 @@ Key bindings
 prefix + Ctrl-s - save
 prefix + Ctrl-r - restore
 
+TPM Installation of Plugins
+
 prefix + I
 
 installs new plugins from github or any other git repo
